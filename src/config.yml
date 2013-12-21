@@ -1,0 +1,51 @@
+Sound-On-Sign-Activated: true
+Effect-On-Sign-Activated: true
+
+#Whether a player is able to create a ClickSign
+Magic-Sign-Enabled: true
+Speed-Sign-Enabled: true
+Haste-Sign-Enabled: true
+Strength-Sign-Enabled: true
+Health-Sign-Enabled: true
+Jump-Sign-Enabled: true
+Regen-Sign-Enabled: true
+Resistance-Sign-Enabled: true
+Fireproof-Sign-Enabled: true
+WaterBreathing-Sign-Enabled: true
+Invisibility-Sign-Enabled: true
+Saturation-Sign-Enabled: true
+NightVision-Sign-Enabled: true
+Explosion-Sign-Enabled: true
+
+
+#This defines how much a ClickSign costs to use. If you do not have an economy plugin, keep these values at 0.
+Economy-Support-Enabled: false
+
+Speed-Sign-Cost: 0
+Haste-Sign-Cost: 0
+Strength-Sign-Cost: 0
+Health-Sign-Cost: 0
+Jump-Sign-Cost: 0
+Regen-Sign-Cost: 0
+Resistance-Sign-Cost: 0
+FireProof-Sign-Cost: 0
+WaterBreathing-Sign-Cost: 0
+Invisibility-Sign-Cost: 0
+Saturation-Sign-Cost: 0
+NightVision-Sign-Message: 0
+Explosion-Sign-Message: 0
+
+#The message you get when you enter the command: /effects
+Speed-Sign-Message: Speed - Makes you run faster
+Haste-Sign-Message: Haste - Makes you dig faster
+Strength-Sign-Message: Strength - Makes you attack harder
+Health-Sign-Message: Health - Unbreaks your bones
+Jump-Sign-Message: Jump - Makes you like a bunny rabbit
+Regen-Sign-Message: Regen - Slowly heals your health
+Resistance-Sign-Message: Resistance - Acts like a shield
+FireProof-Sign-Message: FireProof - Can't take damage from hot stuff
+WaterBreathing-Sign-Message: WaterBreath - Slowly heals your health  
+Invisibility-Sign-Message: Invisibility - Poof! You have disappeared
+Saturation-Sign-Message: Saturation - Just like eating a cookie
+NightVision-Sign-Message: NightVision - You no longer have a fear of the dark
+Explosion-Sign-Message: Explosion - Fly like a rocket
